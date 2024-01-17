@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\hp\Desktop\.NET Project\.NET\OnlineBusBookingSystem\OnlineBusBookingSystem\BusBookingModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\fk368\OneDrive\Desktop\RLL Project\project\OnlineBusBookingSystem\BusBookingModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
