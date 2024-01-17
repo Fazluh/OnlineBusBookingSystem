@@ -1,6 +1,0 @@
-namespace BusBookingApi.Areas.HelpPage.ModelDescriptions
-{
-    public class SimpleTypeModelDescription : ModelDescription
-    {
-    }
-}
